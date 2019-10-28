@@ -47,3 +47,30 @@ Your closing should be short and sweet. This can be having the student summarize
 ### _Optional_ Step 9: Reflection and SSM Commitments:
 
 You should reflect on your session with your student(s). This is important so you can figure out what could have gone better, or what are some better practices that could work for you in future sessions. This may be from grouping of students to what content you bring to your session. 
+
+Modeling Session Plans
+
+<!-- tabs:start -->
+
+#### **ELA Model Session Plan**
+
+
+```pdf
+		files/ELAModel.pdf
+```
+
+#### **Math Model Session Plan**
+
+- [] Elementary Model
+
+```pdf
+		files/MathModelElem.pdf
+```
+
+- [] Secondary Model
+
+```pdf
+		files/MathModelSec.pdf
+```
+
+<!-- tabs:end -->
