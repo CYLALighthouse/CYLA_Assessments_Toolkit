@@ -24,3 +24,11 @@
 
 
 You did it!
+
+If you need more guidance in filling out your Student Support Map.
+
+This is a guide that will explain each part of the SSM.
+
+```pdf
+		files/SSMGuide.pdf
+```
