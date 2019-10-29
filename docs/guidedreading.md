@@ -10,7 +10,7 @@
 #### **Before Reading**
 
 - [ ] **Activate Prior Knowledge**
-	- [ ] Using a [KWL chart](KWL.pdf) helps connec the student with what they already **Know** (K), what they could be **Wondering** (W), and in the end what they **Learned** from the story/activity.
+	- [ ] Using a [KWL chart](KWL.pdf) helps connec the student with what they already **Know** (K), what they could be **Wondering** (W), and in the end what they **Learned** from the story/[activity](file:///H:/Administration/Staff%20Folders/Zack%20L/For%20Github/KWL.pdf).
 - [ ] **Preview**
 	- [ ] Previewing the text could look like looking at any of the pictures or titles/subtitles that they could connect what the story may be about. This looks different for all types of readings. 
 - [ ] **Predict**
