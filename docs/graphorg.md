@@ -7,11 +7,13 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 #### **Before Reading**
 
 - [ ] **KWL Chart**
+
 ```pdf
  		files/KWL.pdf
 ```
 
 - [ ] **Predict and Infering**
+
 ```pdf
  		files/PredictInfer.pdf
 ```
@@ -19,6 +21,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 #### **During Reading**
 
 - [ ] **Click and Clunk**
+
 ```pdf
 		files/ClickClunkComic.pdf
 ```
@@ -26,29 +29,35 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 - [ ] **Word Attack**
 
 	- [ ] **Context Clues**
+
 ```pdf
 		files/Contextclues.pdf
 ```
 
 	- [ ] **Frayer Model**
+
 ```pdf
 		files/Contextgraphic.pdf
 ```
 
 - [ ] **Visualize**
+
 ```pdf
 		files/Visualize.pdf
 ```
 
 - [ ] **Create Connections to Self, Text, and World**
+
 ```pdf
  		files/MakingConnections.pdf
 ```
+
 ```pdf
 		files/MakingConnections1.pdf
 ```
 
 - [ ] **Annotate**
+
 ```pdf
  		files/Annotating.pdf
 ```
@@ -56,18 +65,22 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 #### **After Reading**
 
 - [ ] **Get the Gist**
+
 ```pdf
 		files/Gist.pdf
 ```
 - [ ] **It Says, I say, and So**
+
 ```pdf
 		files/InferEquation.pdf
 ```
 
 - [ ] **Evaluate**
+
 ```pdf
 		files/CDW.pdf
 ```
+
 ```pdf
 		files/SentencelinkClaimsEvidence.pdf
 ```
@@ -75,26 +88,31 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 #### **Extra Organizers**
 
 - [ ] **Concept Map**
+
 ```pdf
 		files/ConceptMap.pdf
 ```
 
 - [ ] **Connection Web**
+
 ```pdf
 		files/ConnectionWeb.pdf
 ```
 
 - [ ] **Compare and Contrast Chart**
+
 ```pdf
 		files/ComConChart.pdf
 ```
 
 - [ ] **Sequence of Events Chart**
+
 ```pdf
 		files/SequenceChart.pdf
 ```
 
 - [ ] **Identifying Author's Purpose**
+
 ```pdf
 		files/Authorspurpose.pdf
 ```
