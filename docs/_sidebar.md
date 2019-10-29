@@ -7,7 +7,7 @@
 
 - Course Performance Resources
 	- [ELA Toolkit](ela.1.md)
-		- [ELA Graphic Organizers](graphorg.md)
+	- [ELA Graphic Organizers](graphorg.md)
 	- [Math Toolkit](math.md)
 	- [Creating SSMs](supportmap.md)
 	- [Creating SPs](spfile.md)
