@@ -61,13 +61,13 @@ Modeling Session Plans
 
 #### **Math Model Session Plan**
 
-- [] Elementary Model
+- [ ] Elementary Model
 
 ```pdf
 		files/MathModelElem.pdf
 ```
 
-- [] Secondary Model
+- [ ] Secondary Model
 
 ```pdf
 		files/MathModelSec.pdf
