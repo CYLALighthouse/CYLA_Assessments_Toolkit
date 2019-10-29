@@ -4,7 +4,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 
 <!-- tabs:start -->
 
-## Before Reading
+#### **Before Reading**
 
 - [ ] **KWL Chart**
 ```pdf
@@ -16,7 +16,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
  		files/PredictInfer.pdf
 ```
 
-## During Reading
+#### **During Reading**
 
 - [ ] **Click and Clunk**
 ```pdf
@@ -53,7 +53,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
  		files/Annotating.pdf
 ```
 
-## After Reading
+#### **After Reading**
 
 - [ ] **Get the Gist**
 ```pdf
@@ -72,7 +72,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 		files/SentencelinkClaimsEvidence.pdf
 ```
 
-## Extra Organizers
+#### **Extra Organizers**
 
 - [ ] **Concept Map**
 ```pdf
