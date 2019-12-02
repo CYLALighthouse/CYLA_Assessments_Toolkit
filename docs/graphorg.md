@@ -28,13 +28,13 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 
 - [ ] **Word Attack**
 
-- [ ] **Context Clues**
+	- [ ] **Context Clues**
 
 ```pdf
 		files/Contextclues.pdf
 ```
 
-- [ ] **Frayer Model**
+	- [ ] **Frayer Model**
 
 ```pdf
 		files/Contextgraphic.pdf
@@ -85,36 +85,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 		files/SentencelinkClaimsEvidence.pdf
 ```
 
-#### **Extra Organizers**
-
-- [ ] **Concept Map**
-
-```pdf
-		files/ConceptMap.pdf
-```
-
-- [ ] **Connection Web**
-
-```pdf
-		files/ConnectionWeb.pdf
-```
-
-- [ ] **Compare and Contrast Chart**
-
-```pdf
-		files/ComConChart.pdf
-```
-
-- [ ] **Sequence of Events Chart**
-
-```pdf
-		files/SequenceChart.pdf
-```
-
-- [ ] **Identifying Author's Purpose**
-
-```pdf
-		files/Authorspurpose.pdf
-```
 
 <!-- tabs:end -->
+
+If you need extra rganizers to help you, you can also explore [here](extraorg.md)
