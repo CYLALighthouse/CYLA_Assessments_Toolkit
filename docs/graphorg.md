@@ -28,13 +28,13 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 
 - [ ] **Word Attack**
 
-	- [ ] **Context Clues**
+- [ ] **Context Clues**
 
 ```pdf
 		files/Contextclues.pdf
 ```
 
-	- [ ] **Frayer Model**
+- [ ] **Frayer Model**
 
 ```pdf
 		files/Contextgraphic.pdf
