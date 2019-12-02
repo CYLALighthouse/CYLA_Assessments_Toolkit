@@ -14,7 +14,7 @@ Follow the steps below to help pick out the CCSS and a lesson guide you can use 
 
 ### Step 3: _**Optional**_ Use the pre-built lesson that is provided and break it down so you can help scaffold the skill for your student. Always remember to adjust accordingly to your specific students needs.
 
-!> To make sure ou are not scrolling so much, once you click on the standard, it will take you to that standard in the PDF. But, if you need to get back to the top where all the standards are you can go ahead and click _**Back to ccss Standard**_ and it will take you back to the top of the PDF.
+!> To make sure you are not scrolling so much, once you click on the standard, it will take you to that standard in the PDF. But, if you need to get back to the top where all the standards are you can go ahead and click _**Back to Table of CCSS Standards**_ and it will take you back to the top of the PDF.
 
 ```pdf
 		files/Math_TK_Standards.pdf
