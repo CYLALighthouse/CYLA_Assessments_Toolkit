@@ -34,7 +34,7 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 		files/Contextclues.pdf
 ```
 
-	- [ ] **Frayer Model**
+- [ ] **Frayer Model**
 
 ```pdf
 		files/Contextgraphic.pdf
