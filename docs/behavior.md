@@ -1,4 +1,3 @@
-[SEL Goal Tracker](https://cityyear.sharepoint.com/teams/lax/SitePages/SELgoal.aspx)
 
 ### **“If we ask people to look for deficits, they will usually find them, and their view of the situation will be colored by this. If we ask people to look for successes, they will usually find it, and their view of the situation will be colored by this.”** _Kral, 1989_
 

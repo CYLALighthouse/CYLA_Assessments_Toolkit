@@ -7,7 +7,7 @@ There are countless causes for a student to be absent. A lot of which will be ve
 
 <!-- tabs:start -->
 
-#### **Academic Concerns**
+#### **Academic Considerations**
 
 Share with classroom teacher of grade level admin to enable collaboration in supporting the student.
 
@@ -17,7 +17,7 @@ Share with classroom teacher of grade level admin to enable collaboration in sup
 - [ ] Does the student struggle with organizational skills?
 - [ ] Are there barriers to homework completion?
 
-#### **Cultural Concerns**
+#### **Cultural Considerations**
 
 Share with school counselor or school support team member to enable collaboration in supporting the student.
 
@@ -27,7 +27,7 @@ Share with school counselor or school support team member to enable collaboratio
 - [ ] Is the student exposed to race, disability, cultural or LGBTQ biases?
 - [ ] Are there cultural, language. or other types of barriers that require extra effort on the part of the school to work with the parent/caregiver?
 
-#### **Social Concerns**
+#### **Social Considerations**
 
 Share with grade level admin to enable collaboration in supporting the student.
 
@@ -37,7 +37,7 @@ Share with grade level admin to enable collaboration in supporting the student.
 - [ ] Have there been any reports of bullying?
 - [ ] Are their adults that the student can identify with?
 
-#### **Health Concerns**
+#### **Health Considerations**
 
 Share with school social worker or school principal to enable collaboration in supporting the student.
 
