@@ -114,7 +114,168 @@
 			- [ ] Pueblo Day Half Day #4
 
 - [ ] 11/18/19-11/22/19
-	- [ ] 
+	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
+	- [ ] SSM #1 Execution Window
+	- [ ] DESSA Round 2 Observation opens
+
+- [ ] 11/25/19-11/29/19
+	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
+	- [ ] November Summit
+	- [ ] 11/25/19
+			- [ ] Community Meeting #1
+	- [ ] 11/27/19
+			- [ ] All Corps Noon Dismissal
+	- [ ] 11/28/19-11/29/19
+			- [ ] Thanksgiving Break
+
+#### **December**
+- [ ] 12/2/19-12/6/19
+	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
+	- [ ] Behavior Interventions Begins
+
+- [ ] 12/9/19-12/13/19
+	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
+
+- [ ] 12/16/19-12/20/19
+	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
+	- [ ] DESSA Round 2 of 6 Behavior Focus List Only
+	- [ ] 12/20/19
+			- [ ] Pueblo Day #5 
+			- [ ] All Corps Noon Dismissal 
+
+- [ ] 12/23/19-12/27/19
+	- [ ] LAUSD Winter Break
+	- [ ] ACM Holiday Week 1
+
+- [ ] 12/30/19-1/3/20
+	- [ ] LAUSD Winter Break
+	- [ ] ACM Holiday Week 2
+
+#### **January**
+- [ ] 12/30/19-1/3/20
+	- [ ] LAUSD Winter Break
+	- [ ] ACM Holiday Week 2
+
+- [ ] 1/6/20-1/10/20
+	- [ ] LAUSD Winter Break
+	- [ ] Mid-Year Summit
+
+- [ ] 1/13/20-1/17/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] SSM Window #2 Planning Week 1
+	- [ ] HMH Planning 
+	- [ ] Mid-Year Summit Feedback Survey
+	- [ ] 1/13/20 
+			- [ ] LAUSD 2nd Semester Begins
+
+- [ ] 1/20/20-1/24/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] SSM Window #2 Planning Week 2
+	- [ ] HMH Testing
+	- [ ] 1/20/20
+			- [ ] MLK Service Day
+
+- [ ] 1/27/20-1/31/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] Session Plan Execution from SSM
+	- [ ] HMH Testing
+	- [ ] 1/31/20
+			- [ ] Focus List Changes End
+
+#### **February**
+- [ ] 2/3/20-2/7/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] HMH Testing
+	- [ ] 2/7/20
+			- [ ] Pueblo Day #6
+
+- [ ] 2/10/20-2/14/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] 2/14/20
+			- [ ] Community Meeting #2
+
+- [ ] 2/17/20-2/21/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+	- [ ] DESSA Round 3 of 6 of Behavior Focus List Student Only
+	- [ ] 2/15/19
+			- [ ] Mid-Year ACM Focus List Selection Deadline
+	- [ ] 2/17/19
+			- [ ] President's Day 
+
+- [ ] 2/27/20-2/28/20
+	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
+
+#### **March**
+- [ ] 3/2/20-3/6/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] SSM #2 Execution closes
+	- [ ] ACM Survey #3 opens
+	- [ ] 3/6/20 
+			- [ ] Community Meeting #3
+
+- [ ] 3/9/20-3/13/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] ACM Survey #3 closes
+	- [ ] SSM #3 Planning
+	- [ ] 3/13/20
+			- [ ] Pueblo Day #7
+
+- [ ] 3/16/20-3/20/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] SSM #3 Planning
+	- [ ] 3/20/20
+			- [ ] Corps Day Off
+
+- [ ] 3/23/20-3/27/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] SSM #3 Execution Starts
+	- [ ] DESSA Round 4 of 6 Behavior Focus List Only
+
+- [ ] 3/30/20-4/3/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] 4/3/20 
+			- [ ] Cesar Chavez Day
+
+#### **April**
+- [ ] 3/30/20-4/3/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] 4/3/20 
+			- [ ] Cesar Chavez Day (All Corps Service Day)
+
+- [ ] 4/6/20-4/10/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] LAUSD Spring Break
+	- [ ] 4/6/20-4/9/20
+			- [ ] End of Year Summit
+	- [ ] 4/9/20
+			- [ ] Community Meeting #4
+	- [ ] 4/10/20
+			- [ ] Corps Day Off
+
+- [ ] 4/13/20-4/17/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] DESSA Round 5 of 6 Behavior Focus List only
+
+- [ ] 4/20/20-4/24/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] 4/24/20
+			- [ ] Pueblo Day #8
+
+- [ ] 4/27/20-5/1/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] 5/1/20
+			- [ ] Community Meeting #5
+
+#### **May**
+- [ ] 4/27/20-5/1/20
+	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
+	- [ ] 5/1/20
+			- [ ] Community Meeting #5
+
+- [ ] 5/4/20-5/8/20
+	- [ ] TouchPoints as Needed Based on PM Discretion
+	
+
 
 
 <!-- tabs:end -->
