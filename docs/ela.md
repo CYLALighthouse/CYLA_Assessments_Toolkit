@@ -46,3 +46,6 @@
 		- Other Comprehansion Strategies: visualizing the text, making connections while reading, and annotating the text.
 
 	- After Reading: Instructors employ strategies that help students access the text and fully comprehend anything that was unclear. Students should be able to summarize the text, make inferences, and support arugment using textual evidence.
+
+
+[SEL Goal Tracker](https://cityyear.sharepoint.com/teams/lax/SitePages/SELgoal.aspx)
