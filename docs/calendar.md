@@ -274,8 +274,40 @@
 
 - [ ] 5/4/20-5/8/20
 	- [ ] TouchPoints as Needed Based on PM Discretion
-	
+	- [ ] SSM #3 Execution ends
 
+- [ ] 5/11/20-5/15/20
+	- [ ] TouchPoints as Needed Based on PM Discretion
+	- [ ] HMH Testing Starts
+	- [ ] DESSA Round 6 of 6 
+
+- [ ] 5/18/20-5/22/20
+	- [ ] TouchPoints as Needed Based on PM Discretion
+	- [ ] End of Year WIG Survey
+	- [ ] 5/22/20
+		- [ ] Pueblo Day # 9 (PRP Day)
+
+- [ ] 5/25/20-5/29/20
+	- [ ] TouchPoints as Needed Based on PM Discretion
+	- [ ] ACM Survey #4 Opens
+	- [ ] ELT Ends
+	- [ ] HMH Testing Ends
+	- [ ] 5/25/20
+		- [ ] Memorial Day
+	- [ ] 5/29/20
+		- [ ] Pass The Torch
+
+- [ ] 6/1/20-6/5/20	
+	- [ ] ACM Survey #4 Closes
+
+- [ ] 6/8/20-6/12/20
+	- [ ] 6/10/20
+		- [ ] Graduation (Evening)
+	- [ ] 6/11/20
+		- [ ] Americorps Offboarding
+	- [ ] 6/12/20
+		- [ ] LAUSD Last Day of Instruction
 
 
 <!-- tabs:end -->
+
