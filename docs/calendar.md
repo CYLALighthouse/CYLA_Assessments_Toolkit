@@ -1,7 +1,9 @@
 # ACM Calendar
 
 <!-- tabs:start -->
+
 #### **August**
+
 - [ ] 8/5/19-8/9/19
 	- [ ] BTA Week 1
 	- [ ] 8/9/19
@@ -25,6 +27,7 @@
 			- [ ] CPR Day - Office Rotation
 
 #### **September**
+
 - [ ] 9/2/19-9/6/19
 	- [ ] Practicum Observations/Debriefs
 	- [ ] 9/2/19
@@ -58,6 +61,7 @@
 			- [ ] Big Citizen Half Day/Team Time
 
 #### **October**
+
 - [ ] 9/30/19-10/4/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 9/30/19
@@ -93,6 +97,7 @@
 			- [ ] Corps Day Off
 
 #### **November**
+
 - [ ] 11/4/19-11/8/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
 	- [ ] Grounding Seesion Plan
@@ -129,6 +134,7 @@
 			- [ ] Thanksgiving Break
 
 #### **December**
+
 - [ ] 12/2/19-12/6/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
 	- [ ] Behavior Interventions Begins
@@ -152,6 +158,7 @@
 	- [ ] ACM Holiday Week 2
 
 #### **January**
+
 - [ ] 12/30/19-1/3/20
 	- [ ] LAUSD Winter Break
 	- [ ] ACM Holiday Week 2
@@ -183,6 +190,7 @@
 			- [ ] Focus List Changes End
 
 #### **February**
+
 - [ ] 2/3/20-2/7/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] HMH Testing
@@ -206,6 +214,7 @@
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 
 #### **March**
+
 - [ ] 3/2/20-3/6/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] SSM #2 Execution closes
@@ -237,6 +246,7 @@
 			- [ ] Cesar Chavez Day
 
 #### **April**
+
 - [ ] 3/30/20-4/3/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 4/3/20 
@@ -267,6 +277,7 @@
 			- [ ] Community Meeting #5
 
 #### **May**
+
 - [ ] 4/27/20-5/1/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 5/1/20
@@ -307,7 +318,6 @@
 		- [ ] Americorps Offboarding
 	- [ ] 6/12/20
 		- [ ] LAUSD Last Day of Instruction
-
 
 <!-- tabs:end -->
 
