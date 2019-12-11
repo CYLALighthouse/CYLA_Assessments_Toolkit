@@ -2,7 +2,7 @@
 
 <!-- tabs:start -->
 
-#### **August**
+##### **August**
 
 - 8/5/19-8/9/19
 	- [ ] BTA Week 1
@@ -26,7 +26,7 @@
 		- [ ] LAUSD Holiday Admission Day
 		- [ ] CPR Day - Office Rotation
 
-#### **September**
+##### **September**
 
 - 9/2/19-9/6/19
 	- [ ] Practicum Observations/Debriefs
@@ -61,7 +61,7 @@
 	- [ ] 9/30/19
 		- [ ] Big Citizen Half Day/Team Time
 
-#### **October**
+##### **October**
 
 - 9/30/19-10/4/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
@@ -97,7 +97,7 @@
 	- [ ] 11/1/19
 		- [ ] Corps Day Off
 
-#### **November**
+##### **November**
 
 - 11/4/19-11/8/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
@@ -135,7 +135,7 @@
 	- [ ] 11/28/19-11/29/19
 		- [ ] Thanksgiving Break
 
-#### **December**
+##### **December**
 
 - 12/2/19-12/6/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
@@ -159,7 +159,7 @@
 	- [ ] LAUSD Winter Break
 	- [ ] ACM Holiday Week 2
 
-#### **January**
+##### **January**
 
 - 12/30/19-1/3/20
 	- [ ] LAUSD Winter Break
@@ -191,7 +191,7 @@
 	- [ ] 1/31/20
 		- [ ] Focus List Changes End
 
-#### **February**
+##### **February**
 
 - 2/3/20-2/7/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
@@ -215,7 +215,7 @@
 - 2/24/20-2/28/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 
-#### **March**
+##### **March**
 
 - 3/2/20-3/6/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
@@ -247,7 +247,7 @@
 	- [ ] 4/3/20 
 		- [ ] Cesar Chavez Day
 
-#### **April**
+##### **April**
 
 - 3/30/20-4/3/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
@@ -278,7 +278,7 @@
 	- [ ] 5/1/20
 		- [ ] Community Meeting #5
 
-#### **May**
+##### **May**
 
 - 4/27/20-5/1/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
@@ -310,7 +310,7 @@
 	- [ ] 5/29/20
 		- [ ] Pass The Torch
 
-#### **June**
+##### **June**
 
 - 6/1/20-6/5/20	
 	- [ ] ACM Survey #4 Closes
