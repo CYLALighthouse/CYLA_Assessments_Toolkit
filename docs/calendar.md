@@ -7,7 +7,7 @@
 - [ ] 8/5/19-8/9/19
 	- [ ] BTA Week 1
 	- [ ] 8/9/19
-			- [ ] Pueblo Day #1
+		- [ ] Pueblo Day #1
 
 - [ ] 8/12/19-8/16/19
 	- [ ] BTA week 2
@@ -21,31 +21,31 @@
 - [ ] 8/26/19-8/30/19
 	- [ ] Practicum Observations/Debriefs
 	- [ ] 8/26/19
-			- [ ] SOY ACM Survey Opens
+		- [ ] SOY ACM Survey Opens
 	- [ ] 8/30/19
-			- [ ] LAUSD Holiday Admission Day
-			- [ ] CPR Day - Office Rotation
+		- [ ] LAUSD Holiday Admission Day
+		- [ ] CPR Day - Office Rotation
 
 #### **September**
 
 - [ ] 9/2/19-9/6/19
 	- [ ] Practicum Observations/Debriefs
 	- [ ] 9/2/19
-			- [ ] Labor Day
-			- [ ] IFL Selection Starts
+		- [ ] Labor Day
+		- [ ] IFL Selection Starts
 
 - [ ] 9/9/19-9/13/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 9/11/19 
-			- [ ] SMR Window opens
+		- [ ] SMR Window opens
 	- [ ] 9/13/19
-			- [ ] IFL Selection Closes
-			- [ ] Pueblo Day #2
+		- [ ] IFL Selection Closes
+		- [ ] Pueblo Day #2
 
 - [ ] 9/16/19-9/20/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 9/16/19
-			- [ ] ELT Begins
+		- [ ] ELT Begins
 
 - [ ] 9/23/19-9/27/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
@@ -53,19 +53,20 @@
 	- [ ] HMH Testing Window Opens
 	- [ ] DESSA Window Opens for Observations
 	- [ ] 9/27/19
-			- [ ] Opening Day 8am - 12pm
-			- [ ] Team Time second half
+		- [ ] Opening Day 8am - 12pm
+		- [ ] Team Time second half
+
 - [ ] 9/30/19-10/4/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 9/30/19
-			- [ ] Big Citizen Half Day/Team Time
+		- [ ] Big Citizen Half Day/Team Time
 
 #### **October**
 
 - [ ] 9/30/19-10/4/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 9/30/19
-			- [ ] Big Citizen Half Day/Team Time
+		- [ ] Big Citizen Half Day/Team Time
 
 - [ ] 10/7/19-10/11/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
@@ -76,25 +77,25 @@
 	- [ ] Final Focus List Selection
 	- [ ] Share HMH Results with Partners
 	- [ ] 10/15/19
-			- [ ] SSM Window #1 Opens
+		- [ ] SSM Window #1 Opens
 
 - [ ] 10/21/19-10/25/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] 10/21/19
-			- [ ] CICO Programming Starts
-			- [ ] First CICO Goal Submitted on Paper
-			- [ ] ELT T2ST Backlogging Starts
+		- [ ] CICO Programming Starts
+		- [ ] First CICO Goal Submitted on Paper
+		- [ ] ELT T2ST Backlogging Starts
 	- [ ] 10/23/19
-			- [ ] DESSA Window for Observations closes
+		- [ ] DESSA Window for Observations closes
 	- [ ] 10/25/19 
-			- [ ] SMR Window Closes 
-			- [ ] Pueblo Day #3
+		- [ ] SMR Window Closes 
+		- [ ] Pueblo Day #3
 
 - [ ] 10/28/19-11/1/19
 	- [ ] ACM should Receive 1 TouchPoint in Academic Coaching
 	- [ ] DESSA Round 1 of 6 All Focus List Students opens
 	- [ ] 11/1/19
-			- [ ] Corps Day Off
+		- [ ] Corps Day Off
 
 #### **November**
 
@@ -103,8 +104,8 @@
 	- [ ] Grounding Seesion Plan
 	- [ ] T2ST Backlog for Focus List Begin in CYSH
 	- [ ] 11/8/19
-			- [ ] Deloitte Career Day
-			- [ ] DESSA Round 1 of 6 All Focus List Students closes
+		- [ ] Deloitte Career Day
+		- [ ] DESSA Round 1 of 6 All Focus List Students closes
 
 - [ ] 11/11/19-11/15/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
@@ -112,11 +113,11 @@
 	- [ ] Behavior Focus List Selected in Workbooks
 	- [ ] ACM Survey #2 opens
 	- [ ] 11/11/19
-			- [ ] Holiday (Veteran's Day)
+		- [ ] Holiday (Veteran's Day)
 	- [ ] 11/13/19
-			- [ ] SNAP Service Day
+		- [ ] SNAP Service Day
 	- [ ] 11/15/19
-			- [ ] Pueblo Day Half Day #4
+		- [ ] Pueblo Day Half Day #4
 
 - [ ] 11/18/19-11/22/19
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
@@ -127,11 +128,11 @@
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
 	- [ ] November Summit
 	- [ ] 11/25/19
-			- [ ] Community Meeting #1
+		- [ ] Community Meeting #1
 	- [ ] 11/27/19
-			- [ ] All Corps Noon Dismissal
+		- [ ] All Corps Noon Dismissal
 	- [ ] 11/28/19-11/29/19
-			- [ ] Thanksgiving Break
+		- [ ] Thanksgiving Break
 
 #### **December**
 
@@ -146,8 +147,8 @@
 	- [ ] ACM should Receive 1 TouchPoint in Planned Intervention
 	- [ ] DESSA Round 2 of 6 Behavior Focus List Only
 	- [ ] 12/20/19
-			- [ ] Pueblo Day #5 
-			- [ ] All Corps Noon Dismissal 
+		- [ ] Pueblo Day #5 
+		- [ ] All Corps Noon Dismissal 
 
 - [ ] 12/23/19-12/27/19
 	- [ ] LAUSD Winter Break
@@ -173,21 +174,21 @@
 	- [ ] HMH Planning 
 	- [ ] Mid-Year Summit Feedback Survey
 	- [ ] 1/13/20 
-			- [ ] LAUSD 2nd Semester Begins
+		- [ ] LAUSD 2nd Semester Begins
 
 - [ ] 1/20/20-1/24/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] SSM Window #2 Planning Week 2
 	- [ ] HMH Testing
 	- [ ] 1/20/20
-			- [ ] MLK Service Day
+		- [ ] MLK Service Day
 
 - [ ] 1/27/20-1/31/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] Session Plan Execution from SSM
 	- [ ] HMH Testing
 	- [ ] 1/31/20
-			- [ ] Focus List Changes End
+		- [ ] Focus List Changes End
 
 #### **February**
 
@@ -195,20 +196,20 @@
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] HMH Testing
 	- [ ] 2/7/20
-			- [ ] Pueblo Day #6
+		- [ ] Pueblo Day #6
 
 - [ ] 2/10/20-2/14/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] 2/14/20
-			- [ ] Community Meeting #2
+		- [ ] Community Meeting #2
 
 - [ ] 2/17/20-2/21/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
 	- [ ] DESSA Round 3 of 6 of Behavior Focus List Student Only
 	- [ ] 2/15/19
-			- [ ] Mid-Year ACM Focus List Selection Deadline
+		- [ ] Mid-Year ACM Focus List Selection Deadline
 	- [ ] 2/17/19
-			- [ ] President's Day 
+		- [ ] President's Day 
 
 - [ ] 2/27/20-2/28/20
 	- [ ] ACM Should Receive 1 TouchPoint in Academic Coaching and 1 TouchPoint in Planned Intervention
@@ -220,20 +221,20 @@
 	- [ ] SSM #2 Execution closes
 	- [ ] ACM Survey #3 opens
 	- [ ] 3/6/20 
-			- [ ] Community Meeting #3
+		- [ ] Community Meeting #3
 
 - [ ] 3/9/20-3/13/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] ACM Survey #3 closes
 	- [ ] SSM #3 Planning
 	- [ ] 3/13/20
-			- [ ] Pueblo Day #7
+		- [ ] Pueblo Day #7
 
 - [ ] 3/16/20-3/20/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] SSM #3 Planning
 	- [ ] 3/20/20
-			- [ ] Corps Day Off
+		- [ ] Corps Day Off
 
 - [ ] 3/23/20-3/27/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
@@ -243,24 +244,24 @@
 - [ ] 3/30/20-4/3/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 4/3/20 
-			- [ ] Cesar Chavez Day
+		- [ ] Cesar Chavez Day
 
 #### **April**
 
 - [ ] 3/30/20-4/3/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 4/3/20 
-			- [ ] Cesar Chavez Day (All Corps Service Day)
+		- [ ] Cesar Chavez Day (All Corps Service Day)
 
 - [ ] 4/6/20-4/10/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] LAUSD Spring Break
 	- [ ] 4/6/20-4/9/20
-			- [ ] End of Year Summit
+		- [ ] End of Year Summit
 	- [ ] 4/9/20
-			- [ ] Community Meeting #4
+		- [ ] Community Meeting #4
 	- [ ] 4/10/20
-			- [ ] Corps Day Off
+		- [ ] Corps Day Off
 
 - [ ] 4/13/20-4/17/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
@@ -269,19 +270,19 @@
 - [ ] 4/20/20-4/24/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 4/24/20
-			- [ ] Pueblo Day #8
+		- [ ] Pueblo Day #8
 
 - [ ] 4/27/20-5/1/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 5/1/20
-			- [ ] Community Meeting #5
+		- [ ] Community Meeting #5
 
 #### **May**
 
 - [ ] 4/27/20-5/1/20
 	- [ ] ACM Should Receive at Least 2 TouchPoints in Planned Interventions
 	- [ ] 5/1/20
-			- [ ] Community Meeting #5
+		- [ ] Community Meeting #5
 
 - [ ] 5/4/20-5/8/20
 	- [ ] TouchPoints as Needed Based on PM Discretion
