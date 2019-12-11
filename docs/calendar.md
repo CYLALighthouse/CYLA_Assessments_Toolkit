@@ -4,21 +4,21 @@
 
 #### **August**
 
-- [ ] 8/5/19-8/9/19
+- [ ]8/5/19-8/9/19
 	- [ ] BTA Week 1
 	- [ ] 8/9/19
 		- [ ] Pueblo Day #1
 
-- [ ] 8/12/19-8/16/19
+- [ ]8/12/19-8/16/19
 	- [ ] BTA week 2
 
-- [ ] 8/19/19-8/23/19
+- [ ]8/19/19-8/23/19
 	- [ ] Practicum Observations/Debriefs
 	- [ ] 8/19/19 is pupil free day
 	- [ ] 8/20/19 First Day of School
 
 
-- [ ] 8/26/19-8/30/19
+- [ ]8/26/19-8/30/19
 	- [ ] Practicum Observations/Debriefs
 	- [ ] 8/26/19
 		- [ ] SOY ACM Survey Opens
