@@ -46,13 +46,13 @@ The MI provides two benchmarks for FL Identification and student progress monito
 - Applied to the first administration of the MI (Baseline Score) 
 - Used for Final Focus List Selection
 
-![MI Performance Bands Fall](/_images/MIBand.png)
+![MI Performance Bands Fall](/_images/MIBands.png)
 
 **How to use this chart:**
 1. Find your student's grade.
 2. Find the score range from their first administration. 
 3. Identify the corresponding band.
-4. If the student is **Far Below Basic, Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
+4. If the student is **Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
 5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
 
 ### Spring MI Performance Bands

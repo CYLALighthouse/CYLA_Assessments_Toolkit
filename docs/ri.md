@@ -44,13 +44,13 @@ The RI provides two benchmarks for FL identification and student progress monito
 
 ### RI Performance Bands
 
-![RI Performance Bands](/_images/RIBand.png)
+![RI Performance Bands](/_images/RIBands.png)
 
 **How to use this chart:**
 1. Find your student's grade.
 2. Find the score range from their first administration. 
 3. Identify the corresponding band.
-4. If the student is **Far Below Basic, Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
+4. If the student is **Below Basic** or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
 5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
 
 
