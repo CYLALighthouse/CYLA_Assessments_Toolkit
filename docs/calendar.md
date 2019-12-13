@@ -1,5 +1,11 @@
 # ACM Calendar
 
+The **ACM Calendar** shows the timeline for the entire year. Each month is broken down by week and you will see all of the important information for each week. If you need a different visual we have created a new website called Sutori that will also break down each month and give you important information for each week as well as some cool facts about your workload. We have also, provided the Omnibus that was given to you all at the beginning of the year. That is where you will find all of the raw information that was used to inform each calendar.
+
+###[Sutori](https://www.sutori.com/story/city-year-los-angeles-visual-omnibus-mid-year-acms--V8SVyjmSvYAXbsE529UkMeUt)
+
+###[Omnibus](https://cityyear.sharepoint.com/teams/lax/LaxPrivate/LAProServe/SitePages/Omnibus.aspx)
+
 <!-- tabs:start -->
 
 ##### **August**
