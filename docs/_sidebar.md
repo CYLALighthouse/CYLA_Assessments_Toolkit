@@ -23,4 +23,7 @@
 - ACM Calendar
 	- [Omnibus](calendar.md)
 
+- Power BI
+	- [Understanding PowerBI](pbunder.md)
+
 - [FAQs](faq.md)

@@ -22,7 +22,7 @@ When picking your students for your Focus List, after doing DESSA, you will choo
 In the first week of when you start Behavior Lessons, you will formally meet with all of your behavior FL students as a small groud and go over what competency you will be working on for the month.
 - [ ] Set a monthly goal with each student during the session (individual or as a goup) and discuss how they might be able to achieve that goal over the next three weeks, by making them into smaller goals.
 - [ ] Plan this session by filling out the top portion of the Behavior Session Planning Template, referencing [DESSA](dessa.md) and [Clover](clover.md), as well as in class observations.
-- [ ] Record the goals on the [SEL Goal Tracker](https://cityyear.sharepoint.com/teams/lax/SitePages/SELgoal.aspx)
+- [ ] Record the goals on the [Behavior Paper Tracker](https://cityyear.sharepoint.com/:x:/r/teams/lax/LandD/_layouts/15/Doc.aspx?sourcedoc=%7B8A7D8EE9-0807-4255-89C5-E595EA534B6A%7D&file=FY20%20%20Behavior%20%20Coaching%20Tool.xlsx&action=default&mobileredirect=true&CID=d928b6b8-d1a8-c844-809c-620c5ca14c83)
 
 #### **Informal Check-in**
 
