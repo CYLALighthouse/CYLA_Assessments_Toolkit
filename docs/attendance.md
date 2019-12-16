@@ -1,7 +1,7 @@
 
 # Attendance Toolkit 
 
-## [Attendance Printable Paper Tracker](https://cityyear.sharepoint.com/:x:/r/teams/lax/LandD/_layouts/15/Doc.aspx?sourcedoc=%7B67B1D489-9B4C-4C42-AE36-2885770AEF64%7D&file=FY20%20%20CICO%20%20Coaching%20Tool.xlsx&action=default&mobileredirect=true&CID=32cfaf8f-4b75-76ae-6a4a-28b751500285)
+[Attendance Printable Paper Tracker](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Attendance.aspx)
 
 ## Understanding Causes of Student Absenteeism
 
