@@ -9,6 +9,8 @@ The HMH website offers research, white papers, and a variety of best practices t
 - [Meet College and Career Readiness Goals with HMH](https://www.hmhco.com/products/assessment-solutions/assets/pdfs/smi/Meet_College_and_Career_Readiness.pdf)
 	- Great resource to share with partner teachers and administration around how HMH can help students and align with Common Core State Standards
 
+# Tasks for Testing
+
 ## Before the Test
 
 In order for both students and teams to feel prepared to administer and take the HMH, preparation can be done by ACMs, TLs, and PMs to ensure the most optimal test taking enviornment. 
