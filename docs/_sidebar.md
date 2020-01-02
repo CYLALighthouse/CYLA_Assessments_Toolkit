@@ -6,8 +6,8 @@
 	- [Testing for Success](success.md)
 
 - Course Performance Resources
-	- [ELA Toolkit](ela.1.md)
-	- [ELA Graphic Organizers](graphorg.md)
+	- [ELA Standards and Strategies](ela.1.md)
+	- [ELA Resources and Activities](graphorg.md)
 	- [Math Toolkit](math.md)
 	- [Creating SSMs](supportmap.md)
 	- [Creating SPs](spfile.md)

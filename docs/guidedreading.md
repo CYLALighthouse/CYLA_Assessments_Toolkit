@@ -47,3 +47,5 @@
 
 
 <!-- tabs:end -->
+
+Click [here](graphorg.md) for Resources and Activities for your Session plans.

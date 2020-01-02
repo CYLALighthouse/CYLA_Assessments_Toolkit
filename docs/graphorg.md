@@ -1,6 +1,6 @@
-# Graphic Organizers from ELA Toolkit
+# Resources and Activities from the ELA Toolkit
 
-These are the Graphic Organizers that are pulled from the ELA Toolkit. You can print these out and use them for your Planned Interventions with your students. The Organizers do go in order relative to [Guided Reading](guidedreading.md), so if you need a reference to which section you need it for head back there.
+These are the **Resources and Activities** that are pulled from the ELA Toolkit. You can print these out and use them for your Planned Interventions with your students. The Resources do go in order relative to [Guided Reading](guidedreading.md), so if you need a reference to which section you need it for head back there.
 
 <!-- tabs:start -->
 
@@ -88,4 +88,4 @@ These are the Graphic Organizers that are pulled from the ELA Toolkit. You can p
 
 <!-- tabs:end -->
 
-If you need extra rganizers to help you, you can also explore [here](extraorg.md)
+If you need extra resources and activites to help you, you can also explore [here](extraorg.md).
