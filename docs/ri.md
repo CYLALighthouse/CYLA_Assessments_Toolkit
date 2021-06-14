@@ -4,7 +4,6 @@
 	- The **_Reading Inventory_** is a research-based, computer adaptive assessment that is designed to measure how well students read literary and expository text at varying difficulties.
 
 - **We use this to:**
-	- Determine the students who will be on your ELA Focus List (FL)
 	- Group FL Students based on common skill gaps
 	- Establish attainable and realistic growth goals for students to work toward
 	- Identify relevant and appropriate texts to use when building students reading and comprehension skills
