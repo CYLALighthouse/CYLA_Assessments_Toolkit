@@ -12,7 +12,7 @@
 	- [Creating SSMs](supportmap.md)
 	- [Creating SPs](spfile.md)
 
-- SEL Resources
+- SED Resources
 	- [Attendance Toolkit](attendance.md)
 	- [Behavior Toolkit](behavior.md)
 
