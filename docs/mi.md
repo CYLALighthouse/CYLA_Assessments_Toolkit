@@ -35,7 +35,7 @@ The MI provides two benchmarks for FL Identification and student progress monito
 
 **Performance Bands** 
 - Align a student's quantile score with proficiency for their grade level
-- Determine Final Focus List selection (must be _Basic_ or _below_ to qualify) for the Math FL
+- Best Fit Focus List students will fall under _Basic_ or _below_ for the Math FL
 - Provide a benchmark for monitoring student progress toward grade level proficiency
 
 
@@ -51,17 +51,8 @@ The MI provides two benchmarks for FL Identification and student progress monito
 1. Find your student's grade.
 2. Find the score range from their first administration. 
 3. Identify the corresponding band.
-4. If the student is **Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
-5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
-
-### Spring MI Performance Bands
-
-- Applied to second and third administration of the MI.
-- Used as Benchmark for student progress towards grade-level proficiency.
-
-![MI Performance Bands Spring]
-
-
+4. If the student is **Below Basic**, or **Basic**, the students are <font color=green>a better fit</font> for the Math FL.
+5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the Math FL.
 
 
 ### Average Growth Goals
