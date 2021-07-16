@@ -10,7 +10,7 @@ Follow the steps below to help pick out the CCSS and a lesson guide you can use 
 
 ### Step 2: Once you find and compare the Standard Focus to your skill, go ahead and click on the _Standard_ deinfed next to it and it will take you to the _Standard Outline_.
 
-- In the Standard outline, it tells you the scaffolding skills that the student will be learning for the next six weeks. It also give you Key Concepts/Vocab and a pre-built lessonfor you to use. 
+- In the Standard outline, it tells you the scaffolding skills that the student will be learning for the next six weeks. It also give you Key Concepts/Vocab and a pre-built lesson for you to use. 
 
 ### Step 3: _**Optional**_ Use the pre-built lesson that is provided and break it down so you can help scaffold the skill for your student. Always remember to adjust accordingly to your specific students needs.
 
