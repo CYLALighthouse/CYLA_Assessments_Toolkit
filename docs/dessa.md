@@ -2,6 +2,10 @@
 
 The **Devereux Students Strengths Assessment (DESSA)**
 
+DESSA is an assessment that all teams will need to perform. It is an assessment that you fill out for all of your SED Focus List students. This assessment will ask you relevant questions about your student behavior inside the classroom and outside the classroom. 
+
+DESSA is a good tool to inform you on who would make a great SED FL student. 
+
 # DESSA Overview
 
 ```pdf
