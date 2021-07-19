@@ -2,7 +2,7 @@
 
 
 - **What is it:**
-	- The *Math Inventory* is a research-based, computer adaptive assessment that measures abilities and longitudinal process from Kindergarten through Algebra II.
+	- The *Math Inventory* is a research-based, computer adaptive assessment that measures abilities and longitudinal process from Kindergarten through Algebra II. This is an optional assessment that schools will be facilitating to their students. Check with your Program Manager if this is an assessment your students will be taking.
 
 - **We use this to:**
 	- Group FL Students based on common skill gaps
