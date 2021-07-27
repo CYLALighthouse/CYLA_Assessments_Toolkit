@@ -7,3 +7,5 @@
 ### How is a Focus List Broken Up?
 
     - The following graphic represent how we split our students up between Math and ELA. We do it this way because it best meets the agreed upon ratios we have with AmeriCorps, while leveraging the slight edge ACMs have in ELA compared to Math.  
+                                            
+                                            (/_images/FLHow.PNG)
