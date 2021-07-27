@@ -22,6 +22,7 @@ In order for both students and teams to feel prepared to administer and take the
 #### ** ACMs **
 
 - [ ] Have student logins ready
+- [ ] Test Student logins to ensure Username and Password works.
 - [ ] Have link to the MI/RI test loaded on computers or accessible easily through other means
 - [ ] Ensure that all students have the opportunity to complete the test without feeling rushed. Assign time slots if computers are limited.
 
