@@ -8,15 +8,15 @@
 
     - The following graphic represent how we split our students up between Math and ELA. We do it this way because it best meets the agreed upon ratios we have with AmeriCorps, while leveraging the slight edge ACMs have in ELA compared to Math.  
 
-                                            (/_images/FLHow.PNG)
+   ![FL How](/_images/FLHow.PNG)
 
 ## Focus List Selection
 
     - Ineligible Candidates: In order to support students within ACM capacities and meet their needs fully, we are able to work with the following groups of students: 
 
-        [] ELL Level 1 & 2 Students: ACMs do not have the training and additional language acquisition to support students at these levels 
+        - [] ELL Level 1 & 2 Students: ACMs do not have the training and additional language acquisition to support students at these levels 
 
-        [] Students within certain Special Education programs: See the list here to determine if a student is eligible.  
+        - [] Students within certain Special Education programs: See the list here to determine if a student is eligible.  
     
     - When looking for Focus List students data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
     
