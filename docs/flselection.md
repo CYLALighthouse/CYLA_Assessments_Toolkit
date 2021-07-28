@@ -1,4 +1,3 @@
-
 # Focus List Selection Process
 
 
@@ -21,7 +20,7 @@
 
         - [] Students within certain Special Education programs: See the list here to determine if a student is eligible.  
     
-    - When looking for Focus List students data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
+When looking for Focus List students data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
     
 ### Teacher Input
     - All ACMs must meet with their teachers to identify their focus list student. In the event that teachers are unavailable, Program Managers will identify with their Program Director alternatives for teacher input and/or notification. They will take on a scaffolded approach in the following order to identify 11 (6 ELA, 5 Math) Focus List students.
