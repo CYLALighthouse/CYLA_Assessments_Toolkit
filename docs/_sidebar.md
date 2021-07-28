@@ -12,8 +12,8 @@
 	- [ELA Standards and Strategies](ela.1.md)
 	- [ELA Resources and Activities](graphorg.md)
 	- [Math Toolkit](math.md)
-	- [Creating SSMs](supportmap.md)
-	- [Creating SPs](spfile.md)
+	<!-- - [Creating SSMs](supportmap.md) -->
+	<!-- - [Creating SPs](spfile.md) -->
 
 - SED Resources
 	- [Attendance Toolkit](attendance.md)

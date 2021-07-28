@@ -1,6 +1,6 @@
 # Focus List Selection Process
 
-
+Below you will find the What, Why and How in the Focus List Selection Process. If you have any questions please reach out to your Program Manager, Program Director or your Instructional Coach. 
 
 ### What is a Focus List? Why Do We Do Them?
 

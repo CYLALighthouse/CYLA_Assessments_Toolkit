@@ -5,7 +5,7 @@
 ### Where do I find my log-in information for SAM?
 
 Go to [PowerBI](https://app.powerbi.com/home) 
-1. Navigate to FY20 Progress Monitoring Dashboard
+1. Navigate to FY22 Progress Monitoring Dashboard
 2. Click on the "Assessment Information" tab (bottom)
 3. Click on My Caseload's SAM Credentials.
 4. Find your login information.
@@ -16,7 +16,7 @@ Your username and password will appear on the box to the right. Make sure you us
 ### Where do I find my student's log-in information?
 
 Go to [PowerBI](https://app.powerbi.com/home) 
-1. Navigate to FY20 Progress Monitoring Dashboard
+1. Navigate to FY22 Progress Monitoring Dashboard
 2. Click on the "Assessment Information" tab (bottom)
 3. Click on My Caseload's SAM Credentials.
 4. Find your student login information.
