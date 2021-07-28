@@ -4,7 +4,7 @@ ACMs may make changes to their Focus List until the end of the first semester wi
 
 Changes in the second semester must involve Program Director consultation to identify affects to pacing and/or alternative Tier 2 Support Time goals for the new focus list student.  
 
-[Accidental Enrollment](###Accidental-Enrollment)
+[Accidental Enrollment](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/extended-syntax###Accidental-Enrollment)
 
 [ACM no longer available](###ACM-no-longer-available)
 
