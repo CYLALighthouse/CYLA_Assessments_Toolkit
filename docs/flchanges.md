@@ -4,7 +4,7 @@ ACMs may make changes to their Focus List until the end of the first semester wi
 
 Changes in the second semester must involve Program Director consultation to identify affects to pacing and/or alternative Tier 2 Support Time goals for the new focus list student.  
 
-[Accidental Enrollment](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/extended-syntax###Accidental-Enrollment)
+[Accidental Enrollment](#Accidental-Enrollment)
 
 [ACM no longer available](###ACM-no-longer-available)
 
@@ -16,10 +16,12 @@ Changes in the second semester must involve Program Director consultation to ide
 
 ## Reasons for Focus List changes: 
 
-### **Accidental Enrollment**: This is the most common exit reason. This happens when trying to enroll a student with similar names but in different grades. 
+### **Accidental Enrollment** {#Accidental-Enrollment}: 
+    This is the most common exit reason. This happens when trying to enroll a student with similar names but in different grades. 
 
 
-### **ACM no longer available**: ACM may have withdrawn from City Year therefore, this is the exit criteria when withdrawing by bulk or individual students.
+### **ACM no longer available**: 
+    ACM may have withdrawn from City Year therefore, this is the exit criteria when withdrawing by bulk or individual students.
 
 
 ### **Deactivated by trigger**: This commonly happens when all students in a sections has been withdrawn or a section has become inactive. 
