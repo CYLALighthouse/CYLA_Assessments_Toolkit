@@ -40,3 +40,6 @@ Changes in the second semester must involve Program Director consultation to ide
 
 
 Prior to making changes ACM and Program Manager should attempt to problem solve and set goals to improve attendance, relationship, etc. within what is in their control. 
+
+git commit --allow-empty -m "Trigger rebuild"
+git push
