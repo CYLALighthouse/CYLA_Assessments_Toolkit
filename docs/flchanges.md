@@ -1,5 +1,6 @@
 # Changes to Focus Lists
 
+
 ACMs may make changes to their Focus List until the end of the first semester with Program Manager consultation. 
 
 Changes in the second semester must involve Program Director consultation to identify affects to pacing and/or alternative Tier 2 Support Time goals for the new focus list student.  
