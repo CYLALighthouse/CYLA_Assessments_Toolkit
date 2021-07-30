@@ -1,7 +1,7 @@
 # The Reading Inventory (RI) {docsify-ignore}
 
 - **What is it:**
-	- The **_Reading Inventory_** is a research-based, computer adaptive assessment that is designed to measure how well students read literary and expository text at varying difficulties. This is an optional assessment that schools will be facilitating to their students. Check with your Program Manager if this is an assessment your students will be taking.
+	- The **_Reading Inventory_** is a research-based, computer adaptive assessment that is designed to measure how well students read literary and expository text at varying difficulties. This is an ***optional*** assessment that schools will be facilitating to their students. Check with your Program Manager if this is an assessment your students will be taking.
 
 - **We use this to:**
 	- Group FL Students based on common skill gaps
