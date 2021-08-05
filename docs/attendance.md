@@ -94,7 +94,7 @@ Ideally you would be choosing students who fall into the _Below Basic_ and _Basi
 - [ ] How can we change the influences that hold us back into positive influences?
 - [ ] How can I support your attendance?
 - [ ] Who can help me with your attendance goal and how?
-	- [ ] Accountability buddy/Key Influencer)
+	- [ ] Accountability buddy/Key Influencer
 
 <!-- tabs:end -->
 
