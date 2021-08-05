@@ -1,6 +1,6 @@
 # Focus List Selection Process
 
-    Below you will find the What, Why and How in the Focus List Selection Process. If you have any questions please reach out to your Program Manager, Program Director or your Instructional Coach. 
+Below you will find the What, Why and How in the Focus List Selection Process. If you have any questions please reach out to your Program Manager, Program Director or your Instructional Coach. 
 
 
 ### What is a Focus List? Why Do We Do Them?
@@ -11,7 +11,7 @@
 
     - The following graphic represent how we split our students up between Math and ELA. We do it this way because it best meets the agreed upon ratios we have with AmeriCorps, while leveraging the slight edge ACMs have in ELA compared to Math.  
 
-   ![FL How](/_images/FLHow.PNG)
+![FL How](/_images/FLHow.PNG)
 
 ## Focus List Selection
 
