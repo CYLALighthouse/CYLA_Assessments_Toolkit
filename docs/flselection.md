@@ -1,7 +1,6 @@
 # Focus List Selection Process
 
-
-Below you will find the What, Why and How in the Focus List Selection Process. If you have any questions please reach out to your Program Manager, Program Director or your Instructional Coach. 
+    Below you will find the What, Why and How in the Focus List Selection Process. If you have any questions please reach out to your Program Manager, Program Director or your Instructional Coach. 
 
 
 ### What is a Focus List? Why Do We Do Them?
@@ -18,9 +17,9 @@ Below you will find the What, Why and How in the Focus List Selection Process. I
 
     - Ineligible Candidates: In order to support students within ACM capacities and meet their needs fully, we are able to work with the following groups of students: 
 
-        - [] ELL Level 1 & 2 Students: ACMs do not have the training and additional language acquisition to support students at these levels 
+        - ELL Level 1 & 2 Students: ACMs do not have the training and additional language acquisition to support students at these levels 
 
-        - [] Students within certain Special Education programs: See the list here to determine if a student is eligible.  
+        - Students within certain Special Education programs: See the list here to determine if a student is eligible.  
     
 When looking for Focus List students data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
     
