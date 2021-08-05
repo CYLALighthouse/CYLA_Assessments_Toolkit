@@ -7,7 +7,7 @@
 
 - Focus List
     - [Focus List Selection](flselection.md)
-    - [Focus List Changes](flchanges1.md)
+    - [Focus List Changes](flchanges.md)
 
 - Course Performance Resources
 	- [ELA Standards and Strategies](ela.1.md)
