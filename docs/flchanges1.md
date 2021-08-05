@@ -7,6 +7,7 @@ Changes in the second semester must involve Program Director consultation to ide
 
 ## Reasons for Focus List changes: 
 
+
 ### *Accidental Enrollment*: 
     This is the most common exit reason. This happens when trying to enroll a student with similar names but in different grades. 
 
