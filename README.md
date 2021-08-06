@@ -4,7 +4,7 @@ This documentation was created using [Docsify.js](https://docsify.js.org/#/) and
 
 If you would like to edit this document:
 
-1. With an update to github, download [Visual Studio Code](https://code.visualstudio.com/) or whichever default text editor you prefer.
+1. Download [Sublime](https://www.sublimetext.com/) or whichever default text editor you prefer.
 2. Download [Github Desktop](https://desktop.github.com/) and create an account.
 3. Clone this repository at github.com/cylalighthouse/CYLA_Assessments_Toolkit
 4. Commit and push new changes!
