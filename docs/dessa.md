@@ -14,7 +14,9 @@ DESSA is a good tool to inform you on who would make a great SED FL student.
 
 # DESSA Competencies
 
-Here is where you can find the DESSA competencies that you will be working on with your students every six weeks. 
+[Click here](competencies.md) to review the DESSA competencies that you will be working on with your students every six weeks. 
+
+
 
 ```pdf
 		files/DESSA_comp.pdf
