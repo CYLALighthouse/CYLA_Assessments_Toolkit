@@ -4,17 +4,10 @@ ACMs may make changes to their Focus List until the end of the first semester wi
 
 Changes in the second semester must involve Program Director consultation to identify affects to pacing and/or alternative Tier 2 Support Time goals for the new focus list student.  
 
-[Accidental Enrollment](#*Accidental-Enrollment*)
-
-[ACM no longer available](#*ACM-no-longer-available*)
-
-[Deactivated by trigger](#*Deactivated-by-trigger*)
-
-[School year ended](#*School-Year-ended*)
-
-[Student no longer available](#*Student-no-longer-available*)
 
 ## Reasons for Focus List changes: 
+
+>   Prior to making changes ACM and Program Manager should attempt to problem solve and set goals to improve attendance, relationship, etc. within what is in their control. 
 
 ### *Accidental Enrollment*: 
    This is the most common exit reason. This happens when trying to enroll a student with similar names but in different grades. 
@@ -36,6 +29,3 @@ Changes in the second semester must involve Program Director consultation to ide
 
 ### *Student no longer available*: 
    Student may have transfered classrooms or student left a CY school.
-
-
->   Prior to making changes ACM and Program Manager should attempt to problem solve and set goals to improve attendance, relationship, etc. within what is in their control. 
