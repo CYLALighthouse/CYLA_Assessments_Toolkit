@@ -21,20 +21,20 @@ Below you will find the What, Why and How in the Focus List Selection Process. I
 
         - Students within certain Special Education programs: See the list here to determine if a student is eligible.  
     
-When looking for Focus List students, data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
+> When looking for Focus List students, data is limited due to COVID. Look below to to utilize some qualitative and quatitative data pieces you may have access to.
     
 ### Teacher Input
    - All ACMs must meet with their teachers to identify their focus list student. In the event that teachers are unavailable, Program Managers will identify with their Program Director alternatives for teacher input and/or notification. They will take on a scaffolded approach in the following order to identify 11 (6 ELA, 5 Math) Focus List students.
 
-#### Grades
+### Grades
    - We will not begin selection until 10-week grades are available for our students. Currently that is slated to be the week of October 18th. We will be looking to support students with a C (3 in elementary school marks) or lower.  
     
-#### Attendance
+### Attendance
    - Similar to previous years we will look at prior and current year attendance data to identify if they need SED support.
         - Ideal candidates are in the 86-89% Average Daily Attendance (ADA) range
 
-#### ACM Observations
+### ACM Observations
    - ACM's will observe during the first 10 weeks. They will be observing the following:
-        - [] Course Performance -- ELA: ACM's will focus on observing fluency, comprehension, and vocabulary.
-        - [] Course Performance -- Math: ACM's will focus on observing fact fluency, participation, and multi-digit operations.
-        - [] DESSA Competencies: ACM's will focus on identifying strength and growth areas based on DESSA competencies. For more info go to [DESSA](dessa.md).
+        - Course Performance -- ELA: ACM's will focus on observing fluency, comprehension, and vocabulary.
+        - Course Performance -- Math: ACM's will focus on observing fact fluency, participation, and multi-digit operations.
+        - DESSA Competencies: ACM's will focus on identifying strength and growth areas based on DESSA competencies. For more info go to [DESSA](dessa.md).
