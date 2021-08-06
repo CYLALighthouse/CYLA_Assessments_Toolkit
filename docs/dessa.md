@@ -17,11 +17,6 @@ DESSA is a good tool to inform you on who would make a great SED FL student.
 [Click here](competencies.md) to review the DESSA competencies that you will be working on with your students every six weeks. 
 
 
-
-```pdf
-		files/DESSA_comp.pdf
-```
-
 # DESSA Strategies
 
 When it comes down to coming up with lessons for your students, always remember you do not have to reinvent the wheel. On the DESSA home page, you can look up strategies/lessons that you can use for your students. Remember, they are templates for your to use, you still need to add your student(s) specific needs. Please follow the steps below to get to the lessons.
