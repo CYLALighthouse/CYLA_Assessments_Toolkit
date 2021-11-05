@@ -2,12 +2,14 @@
 
 The HMH website offers research, white papers, and a variety of best practices to better understand the Reading Inventory and Math Inventory. 
 
-- [Interpreting Assessment Results](files/InterpretingAssessmentResults.pdf)
+- [Interpreting Assessment Results](http://52.1.239.6/products/assessment-solutions/assets/pdfs/sri/MIRIInterpretingAssessmentResults.pdf)
 	- Easy to read overview explaining why scores may vary in HMH assessments and best practices to reduce measurement error
-- [Accuracy Matters](files/AccuracyMatters.pdf)
+- [Accuracy Matters](http://d3r7smo9ckww6x.cloudfront.net/3-SRI_AccuracyMatters_0.pdf)
 	- In-depth, technical manual expanding on the HMH Standardized testing system
-- [Meet College and Career Readiness Goals with HMH](files/MeetCollegeandCareerReadiness.pdf)
+- [Meet College and Career Readiness Goals with HMH](https://www.hmhco.com/products/assessment-solutions/assets/pdfs/smi/Meet_College_and_Career_Readiness.pdf)
 	- Great resource to share with partner teachers and administration around how HMH can help students and align with Common Core State Standards
+
+# Tasks for Testing
 
 ## Before the Test
 
@@ -20,6 +22,7 @@ In order for both students and teams to feel prepared to administer and take the
 #### ** ACMs **
 
 - [ ] Have student logins ready
+- [ ] Test Student logins to ensure Username and Password works.
 - [ ] Have link to the MI/RI test loaded on computers or accessible easily through other means
 - [ ] Ensure that all students have the opportunity to complete the test without feeling rushed. Assign time slots if computers are limited.
 

@@ -2,6 +2,33 @@
 
 [Session Plan Blank Template](https://cityyear.sharepoint.com/:w:/r/teams/lax/LandD/_layouts/15/Doc.aspx?sourcedoc=%7BF465BA47-941F-49B8-AD92-B54EA7E87984%7D&file=FY19%20Session%20Plan%20Template%20Blank.docx&action=default&mobileredirect=true)
 
+Modeling Session Plans
+
+<!-- tabs:start -->
+
+#### **ELA Model Session Plan**
+
+
+```pdf
+		files/ELAModel.pdf
+```
+
+#### **Math Model Session Plan**
+
+- [] Elementary Model
+
+```pdf
+		files/MathModelElem.pdf
+```
+
+- [] Secondary Model
+
+```pdf
+		files/MathModelSec.pdf
+```
+
+<!-- tabs:end -->
+
 #### Step 1. Group your Students
 - The Instructional Planning Report groups your students based on lexile score and performance band. Other things to consider when grouping students are:
 	- Will these students work well together?
@@ -33,3 +60,4 @@ Lexile score tells you the texts that would be the right fit for this student. T
 #### Step 6. Determine the Lexile Range of text You Will Use
 
 ## Using Data from the Math Inventory
+

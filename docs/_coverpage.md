@@ -2,9 +2,9 @@
 
 ![logo](/_images/logo-cy-white.png ':size=140x120')
 
-# FY20 City Year Whole School Whole Child (WSWC) Toolkit
+# FY22 City Year Whole School Whole Child (WSWC) Hub
 
-> This is your magical guide for tools and resources to successfully execute City Year's Whole School Whole Child Model.
+> This is your one-stop guide for tools and resources to successfully execute City Year's Whole School Whole Child Model.
 
 - Toolkit version #3
 - Date Created: 5/9/2019
@@ -14,4 +14,4 @@
 [HMH Login](https://h100002412.education.scholastic.com/)
 
 
-![RI Performance Bands](/_images/cityscape.png)
+<img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>

@@ -1,14 +1,10 @@
-# Hello this is a test!
-
-
 # The Math Inventory (MI)
 
 
 - **What is it:**
-	- The *Math Inventory* is a research-based, computer adaptive assessment that measures abilities and longitudinal process from Kindergarten through Algebra II.
+	- The *Math Inventory* is a research-based, computer adaptive assessment that measures abilities and longitudinal process from Kindergarten through Algebra II. This is an ***optional*** assessment that schools will be facilitating to their students. Check with your Program Manager if this is an assessment your students will be taking.
 
 - **We use this to:**
-	- Determine the students who will be on your Math Focus List (FL)
 	- Group FL Students based on common skill gaps
 	- Identify specific foundational skills and concepts students are ready to learn, so they might master grade-level content
 	- Aligning skills and concpets to CCSS [(Common Core State Standards)](http://www.corestandards.org/read-the-standards/)
@@ -25,7 +21,11 @@
 	Most students take **25-60 minutes** to complete one administration.
 	The assessment is computer-adaptive and adjusts question difficulty based on students' responses.
 
+Here is a resource that you can use to better prep your students for the HMH testing. 
 
+```pdf
+		files/MI_Quick.pdf
+```
 
 ## Test Mechanics 
 
@@ -35,7 +35,7 @@ The MI provides two benchmarks for FL Identification and student progress monito
 
 **Performance Bands** 
 - Align a student's quantile score with proficiency for their grade level
-- Determine Final Focus List selection (must be _Basic_ or _below_ to qualify) for the Math FL
+- Best Fit Focus List students will fall under _Basic_ or _below_ for the Math FL
 - Provide a benchmark for monitoring student progress toward grade level proficiency
 
 
@@ -45,22 +45,14 @@ The MI provides two benchmarks for FL Identification and student progress monito
 - Applied to the first administration of the MI (Baseline Score) 
 - Used for Final Focus List Selection
 
-![MI Performance Bands Fall](/_images/MIBandsFall.jpg)
+![MI Performance Bands Fall](/_images/MIBands.png)
 
 **How to use this chart:**
 1. Find your student's grade.
 2. Find the score range from their first administration. 
 3. Identify the corresponding band.
-4. If the student is **Far Below Basic, Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
-5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
-
-### Spring MI Performance Bands
-
-- Applied to second and third administration of the MI.
-- Used as Benchmark for student progress towards grade-level proficiency.
-
-![MI Performance Bands Spring](/_images/MIBandsSpring.jpg)
-
+4. If the student is **Below Basic**, or **Basic**, the students are <font color=green>a better fit</font> for the Math FL.
+5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the Math FL.
 
 
 ### Average Growth Goals
