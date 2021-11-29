@@ -43,7 +43,7 @@ The formal check-out should happen at the end of the month where you will discus
 
 <!-- tabs:end -->
 
-### FAQ's
+<!-- ### FAQ's
 
 **What happens if my student is absent for a Behavior CI or a CO?**
 
@@ -62,3 +62,4 @@ of the following month.
 **What Comment Code do I use to log _Informal_ Behavior Check-ins and Check-outs?**
 
 - Any session related to Behavior should be logged as a **B**.
+-->
