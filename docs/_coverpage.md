@@ -6,12 +6,16 @@
 
 > This is your one-stop guide for tools and resources to successfully execute City Year's Whole School Whole Child Model.
 
-- Toolkit version #3
-- Date Created: 5/9/2019
+- Toolkit version #3.1
+- Date Updated: 11/5/2021
 
 [Get Started](README.md)
+
 [SAM Login](https://h100002412.education.scholastic.com/ScholasticCentral)
+
 [HMH Login](https://h100002412.education.scholastic.com/)
+
+[Student Login](https://h100002412.education.scholastic.com/slms/studentaccess)
 
 
 <img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>
