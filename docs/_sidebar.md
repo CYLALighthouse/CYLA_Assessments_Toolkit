@@ -1,9 +1,4 @@
 <!-- _sidebar.md -->
-- HMH
-	- [The Reading Inventory](ri.md)
-	- [The Math Inventory](mi.md)
-	- [SAM Reports](sam.md)
-	- [Testing for Success](success.md)
 
 - Focus List
     - [Focus List Selection](flselection.md)
@@ -21,9 +16,18 @@
 	- [Behavior Toolkit](behavior.md)
 	- [DESSA Breakdown](dessa.md)
 
+- Tier 2 Support Time
+	- [T2ST support](t2st.md)
+
 
  <!-- - ACM Calendar
 	- [Omnibus](calendar.md) -->
+
+- HMH
+	- [The Reading Inventory](ri.md)
+	- [The Math Inventory](mi.md)
+	- [SAM Reports](sam.md)
+	- [Testing for Success](success.md)
 
 - [FAQs](faq.md)
 	-[This is a Test](TestRun.MD)

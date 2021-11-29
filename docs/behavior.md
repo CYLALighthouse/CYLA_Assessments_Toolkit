@@ -5,7 +5,7 @@
 
 ## Behavior Toolkit
 
-When we think about student academic growth, we have to think about everything that is going on in our student's life. Because we all understand that it is not just their learning modalities but it also includes their _Social Emotional Learning_. By dedicationg time and building out lessons that can essentially help our students beyond the bell. We are showing our belief in the power of young people and giving them the space to be heard by their role model/mentor.
+When we think about student academic growth, we have to think about everything that is going on in our student's life. Because we all understand that it is not just their learning modalities but it also includes their _Social Emotional Development_. By dedicationg time and building out lessons that can essentially help our students beyond the bell. We are showing our belief in the power of young people and giving them the space to be heard by their role model/mentor.
 
 You as the Americorps members, will be facilitating behavior lessons to their behavior students. You will be picking Behavior students after you have filled out the DESSA form for all of your FL students. Head to [DESSA](dessa.md) if you need more information about DESSA and how to get lessons for your Behavior Lesson.
 
