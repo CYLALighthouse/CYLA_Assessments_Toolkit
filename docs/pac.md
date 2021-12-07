@@ -74,7 +74,9 @@ The purpose of the Session Planning Template is to support ACMs in meaningfully 
 
 **If you have any questions or need more clarity for Planned Academic Coaching. Please reach out to your Program Manager or the Instructional Coaches.**
 
-## If you are looking for example for each subject and differentiated for each school level see below.
+## Examples for PAC
+ 
+If you are looking for example for each subject and differentiated for each school level see below.
 
 #### [PAC Math Elementary Example](https://cityyear-my.sharepoint.com/:w:/g/personal/evrinten-witbeck_cityyear_org/Eb_ppn3ZLMxEiMT6yGq2lWsB2OUgOxgNyqBaDMvMgrBwEQ?e=Zon89r&CID=6261073f-4c8d-2cf7-c9fe-6f22bc992cef)
 
