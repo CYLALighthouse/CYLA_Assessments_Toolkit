@@ -63,3 +63,14 @@ The purpose of the Session Planning Template is to support ACMs in meaningfully 
 ![PAC Session Template](/_images/PACTemp.png)
 
 **If you have any questions or need more clarity for Planned Academic Coaching. Please reach out to your Program Manager or the Instructional Coaches.**
+
+If you are looking for example for each subject and differentiated for each school level see below.
+
+### [PAC Math Elementary Example](https://cityyear-my.sharepoint.com/:w:/g/personal/evrinten-witbeck_cityyear_org/Eb_ppn3ZLMxEiMT6yGq2lWsB2OUgOxgNyqBaDMvMgrBwEQ?e=Zon89r&CID=6261073f-4c8d-2cf7-c9fe-6f22bc992cef)
+
+### [PAC Math Secondary Example](https://cityyear-my.sharepoint.com/:w:/g/personal/evrinten-witbeck_cityyear_org/EZ39lJn93CZNs5caVUvQ9sIBle3Y-bAGKG53UsfznhmhtA?e=Xtu4TZ&CID=1bc2fa3a-1203-d6fc-55fc-91c5ff117cf0)
+
+### [PAC ELA Elementary Example](https://cityyear-my.sharepoint.com/:w:/g/personal/cjarret_cityyear_org/EXg_YcswpPVKmrGaVxNblXwBqCmhE6J9y3vjD21E27GVeA?e=YQvj2t&CID=c8e4c074-8f75-f675-d5b2-a3fd30aefa98)
+
+### [PAC ELA Secondary Example](https://cityyear-my.sharepoint.com/:w:/g/personal/cjarret_cityyear_org/EX0n39fyvNpArh1V3UPny8ABJTF3JcEK6vtRPjI7vnbVfQ?e=o2O9hD&CID=606b4191-a581-cab7-f917-27430b58d346)
+
