@@ -7,7 +7,7 @@
 
 ### Using the T2ST Tracker
 
-The most important piece that must be filled out is the comment code. This helps differentiate the type of environment and lesson you facilitated to your students. Whether it was Academic Coaching (AC) or Planned Intervention (PAC) and even if it were a one on one (1) or a small group (SG). Look below to figure out the difference.
+The most important piece that must be filled out is the comment code. This helps differentiate the type of environment and lesson you facilitated to your students. Whether it was Academic Coaching (AC) or Planned Academic Coaching (PAC) and a Socio-Emotional Development check-ins (SED) or a Planned Socio-Emotional Development (PSED). Look below to figure out the difference.
 
 <!-- tabs:start -->
 
@@ -19,8 +19,18 @@ The most important piece that must be filled out is the comment code. This helps
 #### **Planned Academic Coaching**
 
 - [ ] Planned Intervention will be coded as **PAC**.
-- [ ] Planned Intervention is when you have created a lesson for your student that fits all their needs. 
+- [ ] Planned Intervention is when you have created a lesson for your student that fits all their needs. Please review [Planned Acadmic Coaching](pac.md) for more support.
 	- [ ] This includes their DESSA needs, modalities, and their standard that you picked for them. 
+
+#### **Socio-Emotional Development Check-in**
+
+- [ ] Socio-Emotional Development Check-in will be coded as **SED**
+- [ ] Socio-Emotional Development Check-ins are check-ins with students and seeing how they are doing. This could be a goals check-in and seeing how they are doing with their goals, maybe need to adjust or brainstorm new ideas to help achieve them.
+
+#### **Planned Socio-Emotional Development Sessions**
+
+- [ ] Planned Socio-Emotional Development Sessions will be coded as **PSED**
+- [ ] Planned Socio-Emotional Development Sessions are intentional sessions that will support in a students SED growth. Please review [Planned SED Sessions](psed.med) for more support.
 
 <!-- tabs:end --> 
 
