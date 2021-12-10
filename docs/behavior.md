@@ -51,7 +51,7 @@ Review below some guiding questions for a Pulse Check during a Planned SED Sessi
 
 <!-- tabs:end -->
 
-## Here are some resources to support you in Goal settings for Behavior. 
+## Goal settings for Behavior. 
 
 These resources are to support you in Goal Setting for each DESSA Competency and each Grade Level. If you need more support reach out to your Program Manager or your Instructional Coach.
 
