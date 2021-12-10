@@ -1,4 +1,3 @@
-
 # Attendance Toolkit 
 
 ### [Attendance Printable Paper Tracker](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Attendance.aspx)

@@ -21,7 +21,7 @@ Once the ACM has selected a SED Skill that they will be working on with the stud
 
 ### Pulse Check
 
-This is a way to check in with the student/s to see how they are doing. This could look like a PIES Check-in. Or simply asking how are they doing. This will give the ACM a feeling of how the student is coming into the space. This is how the ACM will guage with the student and see how the session will continue. ***It is ok, if the session gets pushed and this session becomes a SED Check-in. Just move the session to the following week and support the student with their feelings.***
+This is a way to check in with the student/s to see how they are doing. This could look like a PIES Check-in. Or simply asking how are they doing. This will give the ACM a feeling of how the student is coming into the space. This is how the ACM will guage with the student and see how the session will continue. ***It is ok, if the session gets pushed and this session becomes a SED Coaching Conversation. Just move the session to the following week and support the student with their feelings.***
 
 ### Warm Up
 

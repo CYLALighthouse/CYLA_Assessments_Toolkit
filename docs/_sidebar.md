@@ -16,7 +16,7 @@
 	- [Behavior Toolkit](behavior.md)
 	- [DESSA Breakdown](dessa.md)
 
-- Planned Academic Coaching and Academic Coaching
+- Planned Academic Coaching and Planned Social-Emotional Development
 	- [Planned Academic Coaching](pac.md)
 	- [Planned Social-Emotional Development](psed.md)
 
