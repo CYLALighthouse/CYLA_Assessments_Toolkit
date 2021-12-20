@@ -1,10 +1,5 @@
 # T2ST Logging
 
-
-```pdf
-		files/T2ST_Tracker.pdf
-```
-
 ### Using the T2ST Tracker
 
 The most important piece that must be filled out is the comment code. This helps differentiate the type of environment and lesson you facilitated to your students. Whether it was Academic Coaching (AC) or Planned Academic Coaching (PAC) and a Socio-Emotional Development check-ins (SED) or a Planned Socio-Emotional Development (PSED). Look below to figure out the difference.
@@ -22,10 +17,10 @@ The most important piece that must be filled out is the comment code. This helps
 - [ ] Planned Intervention is when you have created a lesson for your student that fits all their needs. Please review [Planned Acadmic Coaching](pac.md) for more support.
 	- [ ] This includes their DESSA needs, modalities, and their standard that you picked for them. 
 
-#### **Socio-Emotional Development Check-in**
+#### **Socio-Emotional Coaching Conversations**
 
-- [ ] Socio-Emotional Development Check-in will be coded as **SED**
-- [ ] Socio-Emotional Development Check-ins are check-ins with students and seeing how they are doing. This could be a goals check-in and seeing how they are doing with their goals, maybe need to adjust or brainstorm new ideas to help achieve them.
+- [ ] Socio-Emotional Development Coaching Conversation will be coded as **SED**
+- [ ] Socio-Emotional Development Coaching Conversation are check-ins with students and seeing how they are doing. This could be a goals check-in and seeing how they are doing with their goals, maybe need to adjust or brainstorm new ideas to help achieve them.
 
 #### **Planned Socio-Emotional Development Sessions**
 

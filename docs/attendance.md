@@ -59,7 +59,7 @@ Ideally you would be choosing students who fall into the _Below Basic_ and _Basi
 
 ![Attendance band](/_images/AttendanceBand.png)
 
-## Guiding CICO Questions
+## Guiding Attendance Questions
 
 <!-- tabs:start -->
 
