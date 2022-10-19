@@ -6,8 +6,8 @@
 
 > This is your one-stop guide for tools and resources to successfully execute City Year's Whole School Whole Child Model.
 
-- Toolkit version #3.1
-- Date Updated: 11/5/2021
+- Toolkit version #3.2
+- Date Updated: 10/18/2022
 
 [Get Started](README.md)
 
