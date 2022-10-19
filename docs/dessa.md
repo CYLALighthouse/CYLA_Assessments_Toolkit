@@ -37,7 +37,7 @@ Click on **Strategies**.
 
 - You will be able to select a DESSA competency and then select grade level to access  lessons/strategies that you can use for SED sessions. Below is the layout of the page.
 
-![DESSA layout](/_images/Dessa3.PNG)
+![DESSA layout](/_images/Dessa3.png)
 
 - It usually has a "Teacher Reflection and Action" template, some universal templates, small groups, and even individual templates that you can use. If you have a parent that would like some lessons for the student to do at home, there are also templates for them to take home near the bottom of the page.
 
@@ -45,6 +45,6 @@ For example, if I chose _Self Awareness_, like I did in the picture, and I were 
 
 The lesson looks something like this...
 
-![DESSA page3](/_images/Dessa4.PNG)
+![DESSA page3](/_images/Dessa4.png)
 
 ![DESSA page2](/_images/Dessa5.png)
