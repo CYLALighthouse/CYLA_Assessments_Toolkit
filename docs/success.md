@@ -21,24 +21,24 @@ In order for both students and teams to feel prepared to administer and take the
 
 #### ** ACMs **
 
-- [ ] Have student logins ready
+- [ ] Have [student logins](https://app.powerbi.com/groups/me/apps/e9ba0db1-f81b-4997-96e7-19bef83819f1/reports/448648d3-78e2-4ab5-a1ad-3a0fa9ed9aad/ReportSection) ready
 - [ ] Test Student logins to ensure Username and Password works.
-- [ ] Have link to the MI/RI test loaded on computers or accessible easily through other means
+- [ ] Have link to the [MI/RI test](https://h100002412.education.scholastic.com/slms/studentaccess) loaded on computers or accessible easily through other means
 - [ ] Ensure that all students have the opportunity to complete the test without feeling rushed. Assign time slots if computers are limited.
 
 #### ** TLs **
 
 - [ ] Familiarize yourself with SAM and test mechanics to answer questions from ACMs 
-- [ ] Have link to the MI/RI test loaded on computers or accessible easily through other means
+- [ ] Have link to the [MI/RI test](https://h100002412.education.scholastic.com/slms/studentaccess) loaded on computers or accessible easily through other means
 
 
 #### ** PMs **
 
 - [ ] Speak with Teachers/Admin to collaborate on best time for testing within CY testing window 
 - [ ] Reserve computer lab or lap top cart 
-- [ ] Ensure each ACM has received login and password information for students 
+- [ ] Ensure each ACM has received [login and password](https://app.powerbi.com/groups/me/apps/e9ba0db1-f81b-4997-96e7-19bef83819f1/reports/448648d3-78e2-4ab5-a1ad-3a0fa9ed9aad/ReportSection) information for students 
 - [ ] For MS/HS- create a document to indicate whether teacher would like to keep students out of class for the remainder of testing or create passes for students to return to class. 
-- [ ] Have link to the MI/RI test loaded on computers or accessible easily through other means 
+- [ ] Have link to the [MI/RI test](https://h100002412.education.scholastic.com/slms/studentaccess) loaded on computers or accessible easily through other means 
 - [ ] Ensure internet connection on desktop or laptop 
 
 <!-- tabs:end -->

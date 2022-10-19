@@ -35,17 +35,13 @@ The MI provides two benchmarks for FL Identification and student progress monito
 
 **Performance Bands** 
 - Align a student's quantile score with proficiency for their grade level
-- Best Fit Focus List students will fall under _Basic_ or _below_ for the Math FL
 - Provide a benchmark for monitoring student progress toward grade level proficiency
-
-
 
 ### Fall MI Performance Bands
 
 - Applied to the first administration of the MI (Baseline Score) 
-- Used for Final Focus List Selection
 
-![MI Performance Bands Fall](/_images/MIBands.png)
+![MI Performance Bands Fall](/_images/MIBands_nonFL.PNG)
 
 **How to use this chart:**
 1. Find your student's grade.
@@ -53,6 +49,7 @@ The MI provides two benchmarks for FL Identification and student progress monito
 3. Identify the corresponding band.
 4. If the student is **Below Basic**, or **Basic**, the students are <font color=green>a better fit</font> for the Math FL.
 5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the Math FL.
+6. *Keep in mind that these scores are not needed to make Focus List selections (*FY23)
 
 
 ### Average Growth Goals
@@ -64,7 +61,7 @@ The MI provides two benchmarks for FL Identification and student progress monito
 	- Student Progress Monitoring
 	- End of Year Student Outcome
 
-![MI Growth Goals](/_images/MIGrowthGoals.jpg)
+![MI Growth Goals](/_images/MIGrowthGoals_New.png)
 
 !> **The Difference Between MI and RI Growth Goals** For the MI, growth goals are based on the [Average Growth Goals](#average-growth-goals) chart, and are the **same** for all students in a grade at each performance band. For the RI, growth goals are **different** for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
 
